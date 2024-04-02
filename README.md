@@ -6,7 +6,7 @@
 - M.A., Digital Studies in Language, Culture, and History | The University of Chicago, Chicago IL USA (_June 2024_)								       		
 - M.A, English	| Panjab University, Chandigarh  India (_July 2021_)	 			        		
 - B.A, English |  Panjab University, Chandigarh  India (_July 2019_)
-- Advanced Diploma, Mass Media and Videography | Panjab University, Chandigarh India (July 2019)
+- Advanced Diploma, Mass Media and Videography | Panjab University, Chandigarh India (_July 2019_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
