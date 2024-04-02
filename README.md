@@ -1,4 +1,4 @@
-# Data Scientist
+# Computational Humanist specializing in NLP
 
 #### Technical Skills: Python, SQL, Natural Language Processing, Machine Learning, Deep Learning, Power BI
 
