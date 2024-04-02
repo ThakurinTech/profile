@@ -1,11 +1,12 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, Power BI
+#### Technical Skills: Python, SQL, Natural Language Processing, Machine Learning, Deep Learning, Power BI
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- M.A., Digital Studies in Language, Culture, and History | The University of Chicago, Chicago IL USA (_June 2024_)								       		
+- M.A, English	| Panjab University, Chandigarh  India (_July 2021_)	 			        		
+- B.A, English |  Panjab University, Chandigarh  India (_July 2019_)
+- Advanced Diploma, Mass Media and Videography | Panjab University, Chandigarh India (July 2019)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
