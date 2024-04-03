@@ -6,10 +6,10 @@
 - M.A., Digital Studies in Language, Culture, and History | The University of Chicago, Chicago IL USA (_June 2024_)								       		
 - M.A, English	| Panjab University, Chandigarh  India (_July 2021_)	 			        		
 - B.A, English |  Panjab University, Chandigarh  India (_July 2019_)
-- Advanced Diploma, Mass Media and Videography | Panjab University, Chandigarh India (_July 2019_)
+- Diploma, Mass Media and Videography | Panjab University, Chandigarh India (_July 2019_)
 
 ## Work Experience
-**Research Analyst NLP @ University of Chicago (_June 2022 - Present_)**
+**Research Assistant NLP @ Textual Optics Lab  University of Chicago (_April 2024 - Present_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
