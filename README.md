@@ -31,13 +31,13 @@ Guidance,Collegial Collaboration.
 
 ## Education
 
-**M.A., Digital Studies in Language, Culture, and History | The University of Chicago, Chicago IL USA                                 (_Sep 2023 - June 2024_)**	
+M.A., Digital Studies in Language, Culture, and History | The University of Chicago, Chicago IL USA                                 (_Sep 2023 - June 2024_)	
 
-**M.A, English	                                           | Panjab University, Chandigarh  India                                      (_Aug 2019 - July 2021_)**	
+M.A, English	                                           | Panjab University, Chandigarh  India                                      (_Aug 2019 - July 2021_)
 
-**B.A, English                                            | Panjab University, Chandigarh  India                                      (_May 2016 - July 2019_)**
+B.A, English                                            | Panjab University, Chandigarh  India                                      (_May 2016 - July 2019_)
 
-**Advance Diploma, Mass Media and Videography             | Panjab University, Chandigarh India                                       (_Aug 2016 - July 2019_)**
+Advance Diploma, Mass Media and Videography             | Panjab University, Chandigarh India                                       (_Aug 2016 - July 2019_)
 
 ## Work Experience
 
@@ -85,7 +85,7 @@ non-discriminatory practices
 
 **Harmony in Motion: Yoga Pose Recognition Project using CNN                                                                         (_Jan 2023-March 2023_)**
 
-[https://github.com/ThakurinTech/yogaposeclassification]
+["https://github.com/ThakurinTech/yogaposeclassification"]
 
 - Conceptualized "Harmony in Motion" building an innovative yoga pose recognition ML model.
 - Employed a robust approach, leveraging 7,000 annotated images to apply diverse methodologies including
