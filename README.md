@@ -97,7 +97,7 @@ optimizing model performance through insights from pre-trained models and advanc
 
 **Celestial Tapestry: Pioneered the First Ontology of Nakshatras                                                                     (_Sep 2023-Dec 2023_)**
 
-[OntologyNakshatra](https://github.com/ThakurinTech/OntologyNakshatra)
+[Ontology Nakshatra](https://github.com/ThakurinTech/OntologyNakshatra)
 
 
 - Developed and proposed the groundbreaking "Celestial Tapestry" project, creating the first ontology of Nakshatras (Lunar Astresims) and cultural cosmology.
