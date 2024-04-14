@@ -30,10 +30,11 @@ Guidance,Collegial Collaboration.
 
 
 ## Education
-**M.A., Digital Studies in Language, Culture, and History | The University of Chicago, Chicago IL USA                                 (_June 2024_)**								       		
-**M.A, English	                                          | Panjab University, Chandigarh  India                                      (_July 2021_)**	 			        		
-**B.A, English                                            | Panjab University, Chandigarh  India                                      (_July 2019_)**
-**Advance Diploma, Mass Media and Videography             | Panjab University, Chandigarh India                                       (_July 2019_)**
+
+**-M.A., Digital Studies in Language, Culture, and History | The University of Chicago, Chicago IL USA                                 (_June 2024_)**								       		
+**-M.A, English	                                           | Panjab University, Chandigarh  India                                      (_July 2021_)**	 			        		
+**-B.A, English                                            | Panjab University, Chandigarh  India                                      (_July 2019_)**
+**-Advance Diploma, Mass Media and Videography             | Panjab University, Chandigarh India                                       (_July 2019_)**
 
 ## Work Experience
 
