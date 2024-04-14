@@ -100,7 +100,7 @@ optimizing model performance through insights from pre-trained models and advanc
 - Centralized scattered data, with 1,681 axioms and 375 classes, bridging gaps in understanding celestial phenomena's impact on Indian tradition and philosophy.
 
 
-**ByteEthics: Decoding AI's Moral Fabric through NLP                                                                             (_Jan 2023-March 2023_)**
+**ByteEthics: Decoding AI's Moral Fabric through NLP                                                                             ( _Jan 2023-March 2023_)**
 [https://github.com/ThakurinTech/ByteEthics]
 
 - Transformed diverse texts into TEI corpus, applying NLP techniques for sentiment analysis, keyword extraction, and topic modeling to unveil cultural nuances, historical shifts, stakeholder perspectives, and interdisciplinary connections, fostering transparency for future research.
