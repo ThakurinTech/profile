@@ -1,6 +1,29 @@
 # Computational Humanist specializing in NLP
 
-#### Technical Skills: Python, SQL, Natural Language Processing, Machine Learning, Deep Learning, Power BI
+#### Skills
+- Programming/Scripting Languages: Python, R, SQL, HTML, CSS, XML
+- Machine Learning/ Deep Learning/AI: Keras, TensorFlow, PyTorch, computer vision,
+- Development and Collaboration Tools: Jupyter, Google Collab, Protege, LibreOffice, Midway, VS Code
+- Data Analysis/Visualization: Scikit-learn, Matplotlib, Seaborn, Plotly, Pyplot, Pandas, NumPy, Altair, Bokeh,
+PowerBI, Tableau, Scipy
+- Natural Language Processing: Beautiful Soup, Tesseract, TEI, OCR, spaCy, NLTK, Vader, NLU/NLP, vector
+space modeling (word2vec, BERT) topic modeling, text encoding, Network Analysis
+- Communication and Analytics: Data Storytelling, Strategic Communication, Insight Analysis
+- Fundraising and Grant Writing: Writing grant proposals and developing fundraising strategies proficiently.
+- Project Planning and Coordination: Planning, scheduling, and coordinating activities, resources, and timelines.
+- Program Development and Management: Designing, implementing, and evaluating programs and projects.
+- Volunteer Management: Recruiting, training, and managing volunteers to support organizational initiatives.
+- Financial Management: Budgeting, financial reporting, and compliance with regulatory requirements.
+- Communication and Analytics: Data Storytelling, Strategic Communication, and Insight Analysis.
+- Community Engagement, Outreach, and Cross-Cultural Competence: Fostering relationships with
+stakeholders and community members, alongside adeptness in working with diverse populations.
+- Monitoring and Evaluation: Monitoring program performance through data analysis, assessing
+the impact, and ensuring accountability.
+- Teaching Skills: Pedagogical Expertise,Verbal and Written Proficiency, Literary Interpretation and Evaluation,
+Academic Inquiry and Scholarship,Class Environment Facilitation, Technological Pedagogy, Mentorship and
+Guidance,Collegial Collaboration.
+- Natural Languages: English, Hindi, and Punjabi.
+
 
 ## Education
 - M.A., Digital Studies in Language, Culture, and History | The University of Chicago, Chicago IL USA (_June 2024_)								       		
@@ -10,26 +33,64 @@
 
 ## Work Experience
 **Research Assistant NLP @ Textual Optics Lab  University of Chicago (_April 2024 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+-Working to build an original corpus of undigitized Hindi literary poetry for the Philologic base to perform corpus statistics to understand the various dimensions of language evolution, thematic trends, stylistic variations, and cultural influences within Hindi poetry.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Assistant Professor in English, Chandigarh University, Mohali, India June 2023 - Aug 2023**
+- Maximized engagement on Canvas LMS, boosting comprehension by 15% in linguistic and literary concepts through multimedia integration.
+-Led interdisciplinary workshops and seminars focused on interdisciplinary research, tailored for the humanities, nurturing collaboration among diverse academic fields and fostering cross-disciplinary collaboration.
+-Provided personalized guidance to students through tailored feedback, encouraging iterative refinement to enhance their work.
+
+**SBI Youth For India Fellow, Barefoot College, Rajasthan, India June 2021- Sep 2022**
+- Lived and worked with marginalized communities in a remote location for 13 months.
+- Conducted a comprehensive survey and analysis to address rural youth’s financial and educational challenges, to
+spur crowdfunding initiatives.
+- Founded Rajasthan’s first Women Digital Village Library, with a library, computer center, and an e-governance
+center for surrounding villages.
+- Collaborated and formulated a library committee, inclusive of members of stakeholders from different castes,
+gender, and socioeconomic backgrounds.
+- Facilitated training sessions for local stakeholders, promoting effective model implementation through
+coordination and communication.
+- Designed, implemented, and evaluated Digital Learning Centres, increasing educational access by 53% and
+replicating the learning center in five villages, demonstrating scalable execution.
+- Planned, scheduled, and coordinated multiple activities, resources, and timelines to achieve project goals
+effectively and efficiently.
+- Spearheaded crowdfunding for sanitation facilities, prioritized community health, and championed inclusivity
+with initiatives fostering equal educational access in multiple villages.
+- Consolidated Tilonia Learning Club, a peer-to-peer learning initiative serving the community at The Barefoot
+College Tilonia, fostering mentorship, performance, and dialogue across a diverse audience including NGO staff,
+fellows, professionals, and local residents.
+- Orchestrated in writing and directing the play ‘Kisan Martaban’ regarding the dilemma of farmer suicide in India.
+- Mentored individual members of the group to enhance their communication skills to present sessions and
+discussions.
+- Led and supervised a team of twenty youths in establishing Nalu's inaugural 24/7 library, known as Jagriti Kendra
+or Village Learning Centre (VLC).
+- Allocated duties to each member, to model the library into a completely youth-run enterprise.
+- Solidified community resilience in the face of a six-week protest by local caste apartheid and united the locals for
+non-discriminatory practices
+- Instructed a group of twenty girls to improve their English language skills.
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+### Harmony in Motion: Yoga Pose Recognition Project using CNN Jan 2023-March 2023
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+- Conceptualized "Harmony in Motion" building an innovative yoga pose recognition ML model.
+- Employed a robust approach, leveraging 7,000 annotated images to apply diverse methodologies including
+feature engineering, meticulous preprocessing with Keras, and clustering analysis.
+- Tailored a dedicated Convolutional Neural Network (CNN) architecture specifically for yoga pose recognition,
+optimizing model performance through insights from pre-trained models and advanced feature engineering techniques.
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+### Celestial Tapestry: Pioneered the First Ontology of Nakshatras September 2023-Dec 2023
+- Developed and proposed the groundbreaking "Celestial Tapestry" project, creating the first ontology of Nakshatras (Lunar Astresims) and cultural cosmology.
+- Centralized scattered data, with 1,681 axioms and 375 classes, bridging gaps in understanding celestial phenomena's impact on Indian tradition and philosophy.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+
+### ByteEthics: Decoding AI's Moral Fabric through NLP Jan 2023-March 2023
+- Transformed diverse texts into TEI corpus, applying NLP techniques for sentiment analysis, keyword extraction, and topic modeling to unveil cultural nuances, historical shifts, stakeholder perspectives, and interdisciplinary connections, fostering transparency for future research.
+- Visualized findings with word clouds, ensuring transparent documentation for future research
+
+
+
+
 
 
