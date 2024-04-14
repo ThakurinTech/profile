@@ -85,7 +85,7 @@ non-discriminatory practices
 
 **Harmony in Motion: Yoga Pose Recognition Project using CNN                                                                         (_Jan 2023-March 2023_)**
 
-[Yoga Pose Classification Repository](https://github.com/ThakurinTech/yogaposeclassification)
+[Yoga Pose Classification](https://github.com/ThakurinTech/yogaposeclassification)
 
 
 - Conceptualized "Harmony in Motion" building an innovative yoga pose recognition ML model.
