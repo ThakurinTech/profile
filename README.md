@@ -36,7 +36,7 @@ Guidance,Collegial Collaboration.
 
 **Research Assistant NLP @ Textual Optics Lab  University of Chicago (_April 2024 - Present_)**
 
--Working to build an original corpus of undigitized Hindi literary poetry for the Philologic base to perform corpus statistics to understand the various dimensions of language evolution, thematic trends, stylistic variations, and cultural influences within Hindi poetry.
+- Working to build an original corpus of undigitized Hindi literary poetry for the Philologic base to perform corpus statistics to understand the various dimensions of language evolution, thematic trends, stylistic variations, and cultural influences within Hindi poetry.
 
 **Assistant Professor in English, Chandigarh University, Mohali, India June 2023 - Aug 2023**
 - Maximized engagement on Canvas LMS, boosting comprehension by 15% in linguistic and literary concepts through multimedia integration.
