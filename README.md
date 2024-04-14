@@ -1,4 +1,4 @@
-# Shikha Thakur |  Computational Humanist specializing in NLP
+# Shikha Thakur |  Computational Humanist in NLP
 
 ## Summary
 Passionate about Computational Humanities, AI, and NLP, dedicated to leveraging data for social good through innovative approaches in cultural analytics. Committed to promoting inclusivity and equality by applying advanced computational methods to drive impactful change and foster a more equitable society.
