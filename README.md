@@ -47,7 +47,9 @@ Guidance,Collegial Collaboration.
 
 **Assistant Professor in English, Chandigarh University, Mohali, India                                                             (_June 2023 - Aug 2023_)**
 - Maximized engagement on Canvas LMS, boosting comprehension by 15% in linguistic and literary concepts through multimedia integration.
+  
 -Led interdisciplinary workshops and seminars focused on interdisciplinary research, tailored for the humanities, nurturing collaboration among diverse academic fields and fostering cross-disciplinary collaboration.
+
 -Provided personalized guidance to students through tailored feedback, encouraging iterative refinement to enhance their work.
 
 **SBI Youth For India Fellow, Barefoot College, Rajasthan, India                                                                   (_June 2021- Sep 2022_)**
@@ -82,6 +84,7 @@ non-discriminatory practices
 ## Projects
 
 ### Harmony in Motion: Yoga Pose Recognition Project using CNN                                                                     (_Jan 2023-March 2023_)
+[]
 
 - Conceptualized "Harmony in Motion" building an innovative yoga pose recognition ML model.
 - Employed a robust approach, leveraging 7,000 annotated images to apply diverse methodologies including
