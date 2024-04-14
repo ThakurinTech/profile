@@ -84,7 +84,8 @@ non-discriminatory practices
 ## Projects
 
 **Harmony in Motion: Yoga Pose Recognition Project using CNN                                                                         (_Jan 2023-March 2023_)**
-[https://github.com/ThakurinTech/yogaposeclassification]
+
+-[https://github.com/ThakurinTech/yogaposeclassification]
 
 - Conceptualized "Harmony in Motion" building an innovative yoga pose recognition ML model.
 - Employed a robust approach, leveraging 7,000 annotated images to apply diverse methodologies including
@@ -94,15 +95,16 @@ optimizing model performance through insights from pre-trained models and advanc
 
 
 **Celestial Tapestry: Pioneered the First Ontology of Nakshatras                                                                     (_Sep 2023-Dec 2023_)**
-[https://github.com/ThakurinTech/OntologyNakshatra]
+
+-[https://github.com/ThakurinTech/OntologyNakshatra]
 
 - Developed and proposed the groundbreaking "Celestial Tapestry" project, creating the first ontology of Nakshatras (Lunar Astresims) and cultural cosmology.
 - Centralized scattered data, with 1,681 axioms and 375 classes, bridging gaps in understanding celestial phenomena's impact on Indian tradition and philosophy.
 
 
 **ByteEthics: Decoding AI's Moral Fabric through NLP                                                                                 (_Jan 2023-March 2023_)**
-[https://github.com/ThakurinTech/ByteEthics]
 
+_ [https://github.com/ThakurinTech/ByteEthics]
 - Transformed diverse texts into TEI corpus, applying NLP techniques for sentiment analysis, keyword extraction, and topic modeling to unveil cultural nuances, historical shifts, stakeholder perspectives, and interdisciplinary connections, fostering transparency for future research.
 - Visualized findings with word clouds, ensuring transparent documentation for future research
 
