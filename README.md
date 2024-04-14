@@ -1,29 +1,32 @@
-# Computational Humanist specializing in NLP
+# SHIKHA THAKUR |  Computational Humanist specializing in NLP
+
+## SUMMARY
+Passionate about Computational Humanities, AI, and NLP, dedicated to leveraging data for social good through innovative approaches in cultural analytics. Committed to promoting inclusivity and equality by applying advanced computational methods to drive impactful change and foster a more equitable society.
 
 ## Skills
 
-- Programming/Scripting Languages: Python, R, SQL, HTML, CSS, XML
-- Machine Learning/ Deep Learning/AI: Keras, TensorFlow, PyTorch, computer vision,
-- Development and Collaboration Tools: Jupyter, Google Collab, Protege, LibreOffice, Midway, VS Code
-- Data Analysis/Visualization: Scikit-learn, Matplotlib, Seaborn, Plotly, Pyplot, Pandas, NumPy, Altair, Bokeh,
+- **Programming/Scripting Languages:** Python, R, SQL, HTML, CSS, XML
+- **Machine Learning/ Deep Learning/AI:** Keras, TensorFlow, PyTorch, computer vision,
+- **Development and Collaboration Tools:** Jupyter, Google Collab, Protege, LibreOffice, Midway, VS Code
+- **Data Analysis/Visualization:** Scikit-learn, Matplotlib, Seaborn, Plotly, Pyplot, Pandas, NumPy, Altair, Bokeh,
 PowerBI, Tableau, Scipy
-- Natural Language Processing: Beautiful Soup, Tesseract, TEI, OCR, spaCy, NLTK, Vader, NLU/NLP, vector
+- **Natural Language Processing:** Beautiful Soup, Tesseract, TEI, OCR, spaCy, NLTK, Vader, NLU/NLP, vector
 space modeling (word2vec, BERT) topic modeling, text encoding, Network Analysis
-- Communication and Analytics: Data Storytelling, Strategic Communication, Insight Analysis
-- Fundraising and Grant Writing: Writing grant proposals and developing fundraising strategies proficiently.
-- Project Planning and Coordination: Planning, scheduling, and coordinating activities, resources, and timelines.
-- Program Development and Management: Designing, implementing, and evaluating programs and projects.
-- Volunteer Management: Recruiting, training, and managing volunteers to support organizational initiatives.
-- Financial Management: Budgeting, financial reporting, and compliance with regulatory requirements.
-- Communication and Analytics: Data Storytelling, Strategic Communication, and Insight Analysis.
-- Community Engagement, Outreach, and Cross-Cultural Competence: Fostering relationships with
+- **Communication and Analytics:** Data Storytelling, Strategic Communication, Insight Analysis
+- **Fundraising and Grant Writing:** Writing grant proposals and developing fundraising strategies proficiently.
+- **Project Planning and Coordination:** Planning, scheduling, and coordinating activities, resources, and timelines.
+- **Program Development and Management:** Designing, implementing, and evaluating programs and projects.
+- **Volunteer Management:** Recruiting, training, and managing volunteers to support organizational initiatives.
+- **Financial Management:** Budgeting, financial reporting, and compliance with regulatory requirements.
+- **Communication and Analytics:** Data Storytelling, Strategic Communication, and Insight Analysis.
+- **Community Engagement, Outreach, and Cross-Cultural Competence:** Fostering relationships with
 stakeholders and community members, alongside adeptness in working with diverse populations.
-- Monitoring and Evaluation: Monitoring program performance through data analysis, assessing
+- **Monitoring and Evaluation:** Monitoring program performance through data analysis, assessing
 the impact, and ensuring accountability.
-- Teaching Skills: Pedagogical Expertise,Verbal and Written Proficiency, Literary Interpretation and Evaluation,
-Academic Inquiry and Scholarship,Class Environment Facilitation, Technological Pedagogy, Mentorship and
+- **Teaching Skills:** Pedagogical Expertise, Verbal and Written Proficiency, Literary Interpretation and Evaluation,
+Academic Inquiry and Scholarship, Class Environment Facilitation, Technological Pedagogy, Mentorship and
 Guidance,Collegial Collaboration.
-- Natural Languages: English, Hindi, and Punjabi.
+- **Natural Languages:** English, Hindi, and Punjabi.
 
 
 ## Education
