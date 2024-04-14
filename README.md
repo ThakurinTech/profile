@@ -1,6 +1,7 @@
 # Computational Humanist specializing in NLP
 
-#### Skills
+## Skills
+
 - Programming/Scripting Languages: Python, R, SQL, HTML, CSS, XML
 - Machine Learning/ Deep Learning/AI: Keras, TensorFlow, PyTorch, computer vision,
 - Development and Collaboration Tools: Jupyter, Google Collab, Protege, LibreOffice, Midway, VS Code
