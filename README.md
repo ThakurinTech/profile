@@ -27,23 +27,23 @@ Guidance,Collegial Collaboration.
 
 
 ## Education
-- M.A., Digital Studies in Language, Culture, and History | The University of Chicago, Chicago IL USA (_June 2024_)								       		
-- M.A, English	| Panjab University, Chandigarh  India (_July 2021_)	 			        		
-- B.A, English |  Panjab University, Chandigarh  India (_July 2019_)
-- Diploma, Mass Media and Videography | Panjab University, Chandigarh India (_July 2019_)
+- M.A., Digital Studies in Language, Culture, and History | The University of Chicago, Chicago IL USA                                (_June 2024_)								       		
+- M.A, English	| Panjab University, Chandigarh  India                                                                               (_July 2021_)	 			        		
+- B.A, English |  Panjab University, Chandigarh  India                                                                               (_July 2019_)
+- Diploma, Mass Media and Videography | Panjab University, Chandigarh India                                                          (_July 2019_)
 
 ## Work Experience
 
-**Research Assistant NLP @ Textual Optics Lab  University of Chicago (_April 2024 - Present_)**
+**Research Assistant NLP @ Textual Optics Lab  University of Chicago                       (_April 2024 - Present_)**
 
 - Working to build an original corpus of undigitized Hindi literary poetry for the Philologic base to perform corpus statistics to understand the various dimensions of language evolution, thematic trends, stylistic variations, and cultural influences within Hindi poetry.
 
-**Assistant Professor in English, Chandigarh University, Mohali, India June 2023 - Aug 2023**
+**Assistant Professor in English, Chandigarh University, Mohali, India                      June 2023 - Aug 2023**
 - Maximized engagement on Canvas LMS, boosting comprehension by 15% in linguistic and literary concepts through multimedia integration.
 -Led interdisciplinary workshops and seminars focused on interdisciplinary research, tailored for the humanities, nurturing collaboration among diverse academic fields and fostering cross-disciplinary collaboration.
 -Provided personalized guidance to students through tailored feedback, encouraging iterative refinement to enhance their work.
 
-**SBI Youth For India Fellow, Barefoot College, Rajasthan, India June 2021- Sep 2022**
+**SBI Youth For India Fellow, Barefoot College, Rajasthan, India                            June 2021- Sep 2022**
 - Lived and worked with marginalized communities in a remote location for 13 months.
 - Conducted a comprehensive survey and analysis to address rural youth’s financial and educational challenges, to
 spur crowdfunding initiatives.
@@ -74,7 +74,7 @@ non-discriminatory practices
 
 ## Projects
 
-### Harmony in Motion: Yoga Pose Recognition Project using CNN Jan 2023-March 2023
+### Harmony in Motion: Yoga Pose Recognition Project using CNN                                 Jan 2023-March 2023
 
 - Conceptualized "Harmony in Motion" building an innovative yoga pose recognition ML model.
 - Employed a robust approach, leveraging 7,000 annotated images to apply diverse methodologies including
@@ -83,12 +83,12 @@ feature engineering, meticulous preprocessing with Keras, and clustering analysi
 optimizing model performance through insights from pre-trained models and advanced feature engineering techniques.
 
 
-### Celestial Tapestry: Pioneered the First Ontology of Nakshatras September 2023-Dec 2023
+### Celestial Tapestry: Pioneered the First Ontology of Nakshatras                             September 2023-Dec 2023
 - Developed and proposed the groundbreaking "Celestial Tapestry" project, creating the first ontology of Nakshatras (Lunar Astresims) and cultural cosmology.
 - Centralized scattered data, with 1,681 axioms and 375 classes, bridging gaps in understanding celestial phenomena's impact on Indian tradition and philosophy.
 
 
-### ByteEthics: Decoding AI's Moral Fabric through NLP Jan 2023-March 2023
+### ByteEthics: Decoding AI's Moral Fabric through NLP                                          Jan 2023-March 2023
 - Transformed diverse texts into TEI corpus, applying NLP techniques for sentiment analysis, keyword extraction, and topic modeling to unveil cultural nuances, historical shifts, stakeholder perspectives, and interdisciplinary connections, fostering transparency for future research.
 - Visualized findings with word clouds, ensuring transparent documentation for future research
 
