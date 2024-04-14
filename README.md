@@ -48,9 +48,9 @@ Guidance,Collegial Collaboration.
 **Assistant Professor in English, Chandigarh University, Mohali, India                                                             (_June 2023 - Aug 2023_)**
 - Maximized engagement on Canvas LMS, boosting comprehension by 15% in linguistic and literary concepts through multimedia integration.
   
--Led interdisciplinary workshops and seminars focused on interdisciplinary research, tailored for the humanities, nurturing collaboration among diverse academic fields and fostering cross-disciplinary collaboration.
+- Led interdisciplinary workshops and seminars focused on interdisciplinary research, tailored for the humanities, nurturing collaboration among diverse academic fields and fostering cross-disciplinary collaboration.
 
--Provided personalized guidance to students through tailored feedback, encouraging iterative refinement to enhance their work.
+- Provided personalized guidance to students through tailored feedback, encouraging iterative refinement to enhance their work.
 
 **SBI Youth For India Fellow, Barefoot College, Rajasthan, India                                                                   (_June 2021- Sep 2022_)**
 - Lived and worked with marginalized communities in a remote location for 13 months.
