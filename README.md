@@ -33,6 +33,7 @@ Guidance,Collegial Collaboration.
 - Diploma, Mass Media and Videography | Panjab University, Chandigarh India (_July 2019_)
 
 ## Work Experience
+
 **Research Assistant NLP @ Textual Optics Lab  University of Chicago (_April 2024 - Present_)**
 -Working to build an original corpus of undigitized Hindi literary poetry for the Philologic base to perform corpus statistics to understand the various dimensions of language evolution, thematic trends, stylistic variations, and cultural influences within Hindi poetry.
 
