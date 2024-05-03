@@ -1,7 +1,8 @@
 # Shikha Thakur | NLP Linguist
 
 ## Summary
-Passionate about Computational Humanities, AI, and NLP, dedicated to leveraging data for social good through innovative approaches in cultural analytics. Committed to promoting inclusivity and equality by applying advanced computational methods to drive impactful change and foster a more equitable society.
+I am a dedicated NLP Linguist, specializing in NLU/NLP and AI, with a diverse skill set encompassing machine learning, data visualization, statistical methods, Python for text mining, and data management with SQL. Throughout my professional journey across academia, non-profit, and research sectors, I have continuously honed these skills to drive impactful projects and initiatives.
+
 
 ## Skills
 
