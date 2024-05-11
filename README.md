@@ -1,4 +1,4 @@
-# Shikha Thakur | NLP Linguist
+# Shikha Thakur | NLP Specialist
 
 ## Summary
 User
