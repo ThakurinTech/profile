@@ -1,7 +1,8 @@
 # Shikha Thakur | NLP Linguist
 
 ## Summary
-I am a dedicated NLP Linguist, specializing in NLU/NLP and AI, with a diverse skill set encompassing machine learning, data visualization, statistical methods, Python for text mining, and data management with SQL. Throughout my professional journey across academia, non-profit, and research sectors, I have continuously honed these skills to drive impactful projects and initiatives.
+User
+I am a committed NLP specialist with a robust interdisciplinary background, specializing in Natural Language Understanding/NLP and AI.Proficient in machine learning, data visualization, statistical methodologies, Python for text mining, and SQL for data management. I have consistently leveraged these competencies to spearhead impactful projects and initiatives across academia, non-profit, and research sectors. My career trajectory underscores a relentless pursuit of excellence and innovation in driving tangible outcomes.
 
 
 ## Skills
@@ -96,7 +97,7 @@ feature engineering, meticulous preprocessing with Keras, and clustering analysi
 optimizing model performance through insights from pre-trained models and advanced feature engineering techniques.
 
 
-**Celestial Tapestry: Pioneered the First Ontology of Nakshatras                                                                     (_Sep 2023-Dec 2023_)**
+**Celestial Tapestry: Pioneered the First Semantic Ontology of Lunar Astresims                                                         (_Sep 2023-Dec 2023_)**
 
 [Ontology Nakshatra](https://github.com/ThakurinTech/OntologyNakshatra)
 
