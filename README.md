@@ -1,7 +1,6 @@
 # Shikha Thakur | NLP Specialist
 
 ## Summary
-User
 I am a committed NLP specialist with a robust interdisciplinary background, specializing in Natural Language Understanding/NLP and AI.Proficient in machine learning, data visualization, statistical methodologies, Python for text mining, and SQL for data management. I have consistently leveraged these competencies to spearhead impactful projects and initiatives across academia, non-profit, and research sectors. My career trajectory underscores a relentless pursuit of excellence and innovation in driving tangible outcomes.
 
 
