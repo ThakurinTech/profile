@@ -90,8 +90,7 @@ non-discriminatory practices
 
 - Employed a robust approach, leveraging 7,000 annotated images to apply diverse methodologies including
 feature engineering, meticulous preprocessing with Keras, and clustering analysis.
-- Tailored a dedicated Convolutional Neural Network (CNN) architecture specifically for yoga pose recognition,
-optimizing model performance through insights from pre-trained models and advanced feature engineering techniques.
+- Developed a customized Convolutional Neural Network (CNN) for yoga pose recognition, enhancing model accuracy using insights from pre-trained models and advanced feature engineering.
 
 
 **Celestial Tapestry: Pioneered the First Semantic Ontology of Lunar Astresims                                                         (_Sep 2023-Dec 2023_)**
