@@ -88,8 +88,6 @@ non-discriminatory practices
 
 [Yoga Pose Classification](https://github.com/ThakurinTech/yogaposeclassification)
 
-
-- Conceptualized "Harmony in Motion" building an innovative yoga pose recognition ML model.
 - Employed a robust approach, leveraging 7,000 annotated images to apply diverse methodologies including
 feature engineering, meticulous preprocessing with Keras, and clustering analysis.
 - Tailored a dedicated Convolutional Neural Network (CNN) architecture specifically for yoga pose recognition,
