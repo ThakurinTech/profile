@@ -99,10 +99,9 @@ optimizing model performance through insights from pre-trained models and advanc
 **Celestial Tapestry: Pioneered the First Semantic Ontology of Lunar Astresims                                                         (_Sep 2023-Dec 2023_)**
 
 [Ontology Nakshatra](https://github.com/ThakurinTech/OntologyNakshatra)
-
-
-- Developed and proposed the groundbreaking "Celestial Tapestry" project, creating the first ontology of Nakshatras (Lunar Astresims) and cultural cosmology.
-- Centralized scattered data, with 1,681 axioms and 375 classes, bridging gaps in understanding celestial phenomena's impact on Indian tradition and philosophy.
+                                                                
+- Developed and proposed the pioneering ontology of Nakshatras (Lunar Astresims), consolidating disparate data through the formulation of 1,681 axioms and 375 classes, thereby facilitating comprehension of celestial phenomena's influence on Indian tradition and philosophy.
+- Integrated the ontology with the Semantic Web, augmenting accessibility and interoperability, consequently enriching the comprehension of cultural and astronomical insights.
 
 
 **ByteEthics: Decoding AI's Moral Fabric through NLP                                                                                 (_Jan 2023-March 2023_)**
