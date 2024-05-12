@@ -1,7 +1,7 @@
 # Shikha Thakur | NLP Specialist
 
 ## Summary
-Dynamic NLP specialist with a robust interdisciplinary background with expertise in NLU/NLG and AI. Adept in machine learning/deep learning data visualization, Python and SQL.Passionate about continuous learning and innovation in the dynamic field of AI.Proficient in translating technical expertise into tangible outcomes, contributing significantly to the advancement of the tech sector.Led impactful projects across academia, non-profit, and research sectors, engaging diverse stakeholders for cohesive alignment with organizational objectives.
+Dynamic NLP specialist with a robust interdisciplinary background with expertise in NLU/NLG and AI. Adept in machine learning/deep learning, data visualization, Python and SQL.Passionate about continuous learning and innovation in the dynamic field of AI.Proficient in translating technical expertise into tangible outcomes.Led impactful projects across academia, non-profit, and research sectors, engaging diverse stakeholders for cohesive alignment with organizational objectives.
 
 
 ## Skills
